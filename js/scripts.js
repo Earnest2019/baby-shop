@@ -5,7 +5,7 @@
 */
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
-var countDownDate = new Date("Jan 01, 2022 00:00:00").getTime();
+var countDownDate = new Date("Jan 01, 2024 00:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
